@@ -12,6 +12,10 @@ instead.
 >  Please do not forget to hand-in **all** assignments using
 > WebLab, otherwise they *cannot* and *will not* be graded.
 
+> **Warning**
+> If the template doesn't work, change the sbt version in project/build.properties to a more recent version of sbt.
+> Version 1.10.10 works as of the 10th of March, 2025.
+
 Dependencies
 ------
 - [SBT](https://www.scala-sbt.org/)
